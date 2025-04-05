@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arnav-343-agarwal/arnav-343-agarwal/output/snake.svg" alt="Snake animation" />
+<img src="./assets/snake.svg" alt="Snake animation" />
 
 ###
 
